@@ -9,6 +9,6 @@ Track number of clicks on each shortened URL
 RESTful API for creating and managing short URLs
 
 Technologies Used
-Frontend: JS,HTML, CSS
+Frontend: JS
 Backend: Node.js, Express
 Database: MongoDB
